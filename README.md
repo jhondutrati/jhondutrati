@@ -2,19 +2,8 @@
 <div>
     <h1>Olá! Eu sou o Jhon. 👋</h1>
     <h2>Bem-vindo ao meu Perfil.</h2>
-    <p>Olá! Meu nome é Jhonfhilip e sou um profissional analítico e proativo de Ciência de Dados. Atualmente, estou em transição de carreira e cursando Análise e Desenvolvimento de Sistemas, com foco na área de Ciência de Dados. Tenho um grande interesse em trabalhar na interseção entre desenvolvimento de software e análise de dados, utilizando ferramentas e técnicas para otimizar a extração de insights e a tomada de decisões.</p>
-<p>Tenho realizado cursos e treinamentos para aprimorar minhas habilidades em ferramentas e práticas relacionadas à Ciência de Dados. Se você quiser conhecer um pouco mais do meu trabalho, verifique meus repositórios. Lá, você encontrará alguns dos meus projetos e trabalhos desenvolvidos até o momento, focados em análise de dados, modelagem estatística e machine learning.</p>
-
-<p>Além disso, possuo conhecimento em metodologias ágeis, como Scrum, que são essenciais para a colaboração e entrega eficiente de projetos de Ciência de Dados.</p>
-
-<p>Tenho experiência e domínio em ferramentas como Python e SQL, e bibliotecas populares de Ciência de Dados, como pandas, scikit-learn e TensorFlow. Essas ferramentas me permitem realizar tarefas como limpeza e transformação de dados, modelagem estatística, construção de algoritmos de machine learning e criação de visualizações para comunicar os resultados de forma eficaz.</p>
-
-<p>Atualmente, estou expandindo meus conhecimentos e estudando tecnologias como Spark, Hadoop e AWS, que são amplamente utilizadas para processamento e análise de grandes volumes de dados. Também estou me aprofundando em técnicas de deep learning e processamento de linguagem natural para explorar ainda mais as possibilidades da Ciência de Dados.</p>
-
-<p>Sou apaixonado por tecnologia e estou sempre em busca de conhecimento e aprimoramento. Estou entusiasmado com as oportunidades que surgem na área de Ciência de Dados e espero poder contribuir com soluções inovadoras e insights valiosos, ajudando as organizações a aproveitar ao máximo seus dados e impulsionar o crescimento e o sucesso.</p>
-
-<p>Amo aprender e compartilhar, e espero um dia fazer parte do grupo de pessoas que farão deste mundo um lugar melhor por meio da tecnologia.</p>
-</div>
+    <p>Olá! Meu nome é Jhonfhilip e sou um profissional analítico e proativo de Ciência de Dados. Atualmente, estou em transição de carreira e formado em Análise e Desenvolvimento de Sistemas, com foco na área de Ciência de Dados. Tenho um grande interesse em trabalhar na interseção entre desenvolvimento de software e análise de dados, utilizando ferramentas e técnicas para otimizar a extração de insights e a tomada de decisões.</p>
+<
 <div>
     <h2>Conecte-se comigo</h2>
     <a href="https://www.linkedin.com/in/jhonfhilip-dutra-de-paula-17bb8815a/" target="_blank">
