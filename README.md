@@ -3,7 +3,6 @@
     <h1>Olá! Eu sou o Jhon. 👋</h1>
     <h2>Bem-vindo ao meu Perfil.</h2>
     <p>Olá! Meu nome é Jhonfhilip e sou um profissional analítico e proativo de Ciência de Dados. Atualmente, estou em transição de carreira e formado em Análise e Desenvolvimento de Sistemas, com foco na área de Ciência de Dados. Tenho um grande interesse em trabalhar na interseção entre desenvolvimento de software e análise de dados, utilizando ferramentas e técnicas para otimizar a extração de insights e a tomada de decisões.</p>
-<
 <div>
     <h2>Conecte-se comigo</h2>
     <a href="https://www.linkedin.com/in/jhonfhilip-dutra-de-paula-17bb8815a/" target="_blank">
